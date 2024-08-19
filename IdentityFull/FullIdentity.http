@@ -1,0 +1,6 @@
+@FullIdentity_HostAddress = http://localhost:5028
+
+GET {{FullIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
